@@ -5,15 +5,6 @@ Instructions: In this lab we will play a game of literary ‘exquisite corpse’
 For this assignment please edit this file by opening it into a text program like TextEdit / Microsoft Word. Please keep the story PG. No use of cursing, racism, sexist, homophobia, intense graphic violence imagery, overt sexual speech will be tolerated. When you start your paragraph please write your name at the top.
 
 When you are done with the paragraph please separate your section by using the a line of underscores. You can do this by holding shift + hypen (-)
-<<<<<<< HEAD
-
-
-_____________
-
-Trevor Hudson
-
-By 9:30am, the temperature in the classroom had already reached 110 degrees. The computer terminals (and their users) were bogged down by steadily rising temperatures and associated fatigue. 
-=======
 __________________________________
 
 Mar Lar Thin
@@ -23,6 +14,7 @@ __________________________________
 
 Annette Brecheisen
 
+<<<<<<< HEAD
 Poor Bently, cast reluctantly into vegetarinism he tends to act out. He likes to stick his paws in the fish bowl and attempt to catch our pet fish Don’t worry, when he catches her, he always lets her go.
 
 ————————————————————
@@ -31,6 +23,9 @@ Quip Johnson
 
 Of course this is a traumatizing experience for our fish. Even though she is always released, the stress of the encounters has made her anxious and constantly on edge. When we drop food in the bowl, she’ll hide until it floats down to her.
 
+=======
+Poor Bently, cast reluctantly into vegetarinism he tends to act out. He likes to stick his paws in the fish bowl and attempt to catch our pet fish. Don’t worry, when he catches her, he always lets her go.
+>>>>>>> d8d565e3d2009505987fbe7e351e30e4e9f0875a
 
+___________________________________
 
->>>>>>> 398b33f8228364b4e32e4850043a4c0f153f7630
