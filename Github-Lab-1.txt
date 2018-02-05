@@ -5,6 +5,15 @@ Instructions: In this lab we will play a game of literary ‘exquisite corpse’
 For this assignment please edit this file by opening it into a text program like TextEdit / Microsoft Word. Please keep the story PG. No use of cursing, racism, sexist, homophobia, intense graphic violence imagery, overt sexual speech will be tolerated. When you start your paragraph please write your name at the top.
 
 When you are done with the paragraph please separate your section by using the a line of underscores. You can do this by holding shift + hypen (-)
+<<<<<<< HEAD
+
+
+_____________
+
+Trevor Hudson
+
+By 9:30am, the temperature in the classroom had already reached 110 degrees. The computer terminals (and their users) were bogged down by steadily rising temperatures and associated fatigue. 
+=======
 __________________________________
 
 Mar Lar Thin
@@ -18,3 +27,4 @@ Poor Bently, cast reluctantly into vegetarinism he tends to act out. He likes to
 
 
 
+>>>>>>> 398b33f8228364b4e32e4850043a4c0f153f7630
