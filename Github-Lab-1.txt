@@ -28,14 +28,27 @@ Test Student
 
 I am adding to this file
 
+______________
+
+Fares Qumsiyeh
+
+Hopefully the fish is okay and doesn’t get PTSD from the past traumatic experiences.
 
 _____________
 This is Sky
 
 I am testing this file now.^.^
 
+<<<<<<< HEAD
 __________________________
 
 Melissa San Miguel
 
 But one day, she decided she was going to fight back. Our fish, Andy, decided that today would be different. When Bently’s paw came rushing down the fish bowl, Andy jumped up and used her tail to smack Bently right in his whiskers.
+=======
+___________________
+
+Hillary Allard
+
+The fish decided to take self defense classes to protect itself form the cat. It has made him feel much safer in his fishbowl. 
+>>>>>>> a7de4ea4017450a0f2899b208d02db1e91443669
