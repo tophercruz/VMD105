@@ -33,4 +33,13 @@ _____________
 This is Sky
 
 I am testing this file now.^.^
+<<<<<<< HEAD
 The sky is dark and cloudy, it started to rain. All the people are went to the mall to get away from the rain to dry off.
+=======
+
+__________________________
+
+Melissa San Miguel
+
+But one day, she decided she was going to fight back. Our fish, Andy, decided that today would be different. When Bently’s paw came rushing down the fish bowl, Andy jumped up and used her tail to smack Bently right in his whiskers. done
+>>>>>>> cc226d7a6b64fd7fd5fc97affbe425e0ee7f7715
