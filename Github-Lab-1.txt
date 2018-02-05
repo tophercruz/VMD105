@@ -1,0 +1,7 @@
+Github Lab 1: Collaboration
+
+Instructions: In this lab we will play a game of literary ‘exquisite corpse’. The idea is we will write a story where each student writes one paragraph of the story based on the last paragraph. 
+
+For this assignment please edit this file by opening it into a text program like TextEdit / Microsoft Word. Please keep the story PG. No use of cursing, racism, sexist, homophobia, intense graphic violence imagery, overt sexual speech will be tolerated. When you start your paragraph please write your name at the top.
+
+When you are done with the paragraph please separate your section by using the a line of underscores. You can do this by holding shift + hypen (-)
