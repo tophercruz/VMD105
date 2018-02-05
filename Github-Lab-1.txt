@@ -14,7 +14,6 @@ __________________________________
 
 Annette Brecheisen
 
-<<<<<<< HEAD
 Poor Bently, cast reluctantly into vegetarinism he tends to act out. He likes to stick his paws in the fish bowl and attempt to catch our pet fish Don’t worry, when he catches her, he always lets her go.
 
 ————————————————————
@@ -25,7 +24,6 @@ Of course this is a traumatizing experience for our fish. Even though she is alw
 
 =======
 Poor Bently, cast reluctantly into vegetarinism he tends to act out. He likes to stick his paws in the fish bowl and attempt to catch our pet fish. Don’t worry, when he catches her, he always lets her go.
->>>>>>> d8d565e3d2009505987fbe7e351e30e4e9f0875a
 
 ___________________________________
 
